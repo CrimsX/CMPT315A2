@@ -7,11 +7,11 @@ Develop a basic JavaScript library similar to Lodash that provides functions to 
 ## Usage
 **Install it:**
 
-`npm install @crimsx/CMPT315A2`
+`npm install @crimsx/cmpt315a2`
 
 **Require it:**
 
-`const _ = require('@crimsx/CMPT315A2');`
+`const _ = require('@crimsx/cmpt315a2');`
 
 **Call it:**
 

@@ -1,0 +1,22 @@
+{
+  "name": "@crimsx/cmpt315a2",
+  "version": "1.0.1",
+  "description": "Assignment 2 for CMPT315",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrimsX/CMPT315A2.git"
+  },
+  "keywords": [
+    "A2"
+  ],
+  "author": "Jordan Lai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrimsX/CMPT315A2/issues"
+  },
+  "homepage": "https://github.com/CrimsX/CMPT315A2#readme"
+}
